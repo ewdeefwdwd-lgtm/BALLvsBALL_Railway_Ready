@@ -1,8 +1,0 @@
-{
-  "name": "ballvsball",
-  "version": "1.0.0",
-  "private": true,
-  "description": "BALLvsBALL browser arena, private room-code PvP",
-  "scripts": {"start": "node server.js"},
-  "engines": {"node": ">=20"}
-}
